@@ -29,3 +29,28 @@ git clone https://github.com/group-neo399/-
 cd -
 pip install -r requirements.txt
 python main.py
+
+⚙️ Requirements
+Python 3.8+
+
+Discord Bot Token
+
+Server ID
+
+🚀 Usage
+Run python main.py
+
+Enter your bot token
+
+Enter server ID
+
+Choose from 12 options
+
+⚠️ Warning
+For educational purposes only. Use on your own servers.
+
+👤 Developer
+xa4k
+
+⭐ Star this repo if you like it!
+
